@@ -1,4 +1,4 @@
-﻿assignee_organization(NO TX),assignee_total_num_patents(NO TX),assignee_lastknown_state(NO TX),count,total_assignee_count,assignees__assignee_organization(TX),assignees__assignee_total_num_patents(TX),assignees__assignee_lastknown_state
+﻿assignee_organization_NO_TX,assignee_total_num_patents_NO_TX,assignee_lastknown_state_NO_TX,count,total_assignee_count,assignees__assignee_organization_TX,assignees__assignee_total_num_patents_TX,assignees__assignee_lastknown_state
 International Business Machines Corporation,131150,NY,50,59695,"Hewlett-Packard Development Company, L.P.",34045,TX
 General Electric Company,45040,NY,,,Texas Instruments Incorporated,23192,TX
 Intel Corporation,39234,CA,,,STMicroelectronics S.r.l.,9856,TX
